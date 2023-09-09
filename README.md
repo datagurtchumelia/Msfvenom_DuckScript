@@ -1,5 +1,8 @@
 <ol>
-        <li>Run the provided `msf.bash` script:</li>
+        <li>Change `CH_me` with LHOST and LPORT in `msf.bash` script:</li>
+        <pre><code>nano msf.bash</code></pre>
+        
+<li>Run the provided `msf.bash` script:</li>
         <pre><code>./msf.bash</code></pre>
 
 <li>Start your Apache or Nginx web server.</li>
