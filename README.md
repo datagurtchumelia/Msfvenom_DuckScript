@@ -1,4 +1,4 @@
-    <ol>
+<ol>
         <li>Run the provided `msf.bash` script:</li>
         <pre><code>./msf.bash</code></pre>
 
@@ -18,4 +18,4 @@
         <li>Edit the `CH_me` in `shell.txt` with your Apache or Nginx server's IP address.</li>
         <p>Replace `CH_me` with the IP address of your server, e.g.,</p>
         <pre><code>CH_me=http://your_apache_or_nginx_ip/</code></pre>
-    </ol>
+</ol>
