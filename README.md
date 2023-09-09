@@ -12,7 +12,7 @@
 <li>Upload the file created by `msf.bash` to your web server's root directory (usually `/var/www/html`). You can use tools like `mv` to move the file:</li>
         <pre><code>mv backdoor.exe /var/www/html/</code></pre>
 
- <li>Once the file is in the `/var/www/html/` directory, locate and open the `shell.txt` file:</li>
+ <li>Open `shell.txt` :</li>
         <pre><code>sudo nano shell.txt</code></pre>
 
  <li>Edit the `CH_me` in `shell.txt` with your Apache or Nginx server's IP address.</li>
