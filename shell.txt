@@ -1,4 +1,4 @@
-REM Author: ['Smokey Nagata']
+REM Author: ['Data Gurtchumelia https://github.com/datagurtchumelia']
 DELAY 500
 GUI r
 DELAY 500
